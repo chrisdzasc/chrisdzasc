@@ -1,28 +1,14 @@
-<h1 align="center">Hi, I'm Christian Diaz&nbsp;&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Passionate+about+web+development;Be+Legendary" alt="Typing SVG" /></a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/chris-diazasc/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.goodreads.com/xiandiaz">
-    <img src="https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213" alt="Goodreads" />
-  </a>
-  <a href="https://music.youtube.com/channel/UCEjPEv2vrkoFYzEQUpcnkUg?si=RIsz_2yIGyIy7ONe">
-    <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" alt="YouTube Music" />
-  </a>
-</p>
+# Hi, I'm Christian Diaz <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm a Software Engineering student at Universidad de Guadalajara.
-- 💻 Enthusiastic web developer.
-- 🚀 I’m constantly learning and developing new skills through hands-on projects.  
-- 🧠 I’m driven by a commitment to continuous improvement.
-- ⚙️ Process Enjoyer.
+- 🎓 **Software Engineering** student at Universidad de Guadalajara.
+- 💻 **Frontend Developer** passionate about building interactive web applications.
+- ✨ Enthusiastic about creating clean and user-friendly web experiences.
+- 🛠️ Constantly learning and developing new skills through hands-on projects.  
+- 📈 Driven by a commitment to **continuous improvement** and growth.
+- ⚙️ **Process Enjoyer**.
+- ⭐ **Be Legendary**.
 
 ## 💻 Tech Stack
 
@@ -53,29 +39,15 @@
 ## 🎓 Certifications
 
 
-
+[![Meta - Front End](https://img.shields.io/badge/Meta-Front--End%20Development-0467DF?style=for-the-badge&logo=meta&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/Z812NRRKITFX)
+[![Meta - JS](https://img.shields.io/badge/Meta-Programming%20with%20JS-0467DF?style=for-the-badge&logo=javascript&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/7KLHQ06BQ7XA)
+[![Meta - Git](https://img.shields.io/badge/Meta-Version%20Control-0467DF?style=for-the-badge&logo=git&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/79E1O8084MQ9)
 [![Desarrollo Web Completo](https://img.shields.io/badge/Desarrollo%20Web%20Completo-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/certificate/UC-4fd30dbc-751a-435d-a9e1-d587681d9f0a/)
 [![CSS La Guía Completa](https://img.shields.io/badge/CSS-Udemy-264de4?style=for-the-badge&logo=css3&logoColor=white)](https://www.udemy.com/certificate/UC-2d94d52e-aa5c-47dc-84db-7a52c85c330f/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-Udemy-F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000)](https://www.udemy.com/certificate/UC-616d38fa-09b7-4792-bccb-b6fa09151063/)
-[![Python](https://img.shields.io/badge/Python-Udemy-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.udemy.com/certificate/UC-e02179bf-872c-4ef1-b7c6-09fb3a6a724d/)
 [![Bootstrap 5 y SASS](https://img.shields.io/badge/Bootstrap%205%20y%20SASS-Udemy-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://www.udemy.com/certificate/UC-dca33e63-6e4e-4856-916e-9f3dd381019c/)
+[![Python](https://img.shields.io/badge/Python-Udemy-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.udemy.com/certificate/UC-e02179bf-872c-4ef1-b7c6-09fb3a6a724d/)
 
-
-## 📈 Github Stats
-
-<details>
-  <summary>📊 GitHub Profile Stats</summary>
-  <br/>
-  <a href="https://github.com/chrisdzasc/github-readme-stats"><img alt="chrisdzasc's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chrisdzasc&show_icons=true&count_private=true&hide=" /></a>
-</details>
-
-<details> 
-  <summary>💻 Most used languages</summary>
-  <br/>
-  <a href="https://github.com/chrisdzasc/github-readme-stats"><img alt="chrisdzasc's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisdzasc&langs_count=10&layout=compact#" /></a>
-  <br/>
-  <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
-</details>
 <!--
 **chrisdzasc/chrisdzasc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
